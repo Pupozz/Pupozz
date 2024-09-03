@@ -1,9 +1,9 @@
 ### Projetos pessoais e universitários🙋🏻‍♂️
 
 
-![Pupozz GitHub stats](https://github-readme-stats.vercel.app/api?username=Pupozz&show_icons=true&theme=radical)
+![Pupozz GitHub stats](https://github-readme-stats.vercel.app/api?username=Pupozz&_show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pupozz&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pupozz&_hide_progress=true)
 
 ## Tecnologias de estudo e aplicação 
 
